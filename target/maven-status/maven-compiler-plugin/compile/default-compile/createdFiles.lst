@@ -1,0 +1,7 @@
+com\demo\rewardapp\entitiy\User.class
+com\demo\rewardapp\service\RewardService.class
+com\demo\rewardapp\entitiy\Purchase.class
+com\demo\rewardapp\RewardCollectorApplication.class
+com\demo\rewardapp\Test.class
+com\demo\rewardapp\controllers\RewardCollector.class
+com\demo\rewardapp\service\RewardServiceImpl.class

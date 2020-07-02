@@ -1,0 +1,29 @@
+[{
+        "purchaseId": null,
+        "purchaseItem": "Car",
+        "purchaseDate": "03-JAN-2019",
+        "purchaseAmount": "1000",
+        "rewardPoints": null
+    },
+	{
+        "purchaseId": null,
+        "purchaseItem": "Bus",
+        "purchaseDate": "10-JAN-2020",
+        "purchaseAmount": "2000",
+        "rewardPoints": null
+    },
+{
+        "purchaseId": null,
+        "purchaseItem": "Bike",
+        "purchaseDate": "15-FEB-2020",
+        "purchaseAmount": "500",
+        "rewardPoints": null
+    },
+	{
+        "purchaseId": null,
+        "purchaseItem": "Laptop",
+        "purchaseDate": "20-MAR-2020",
+        "purchaseAmount": "250",
+        "rewardPoints": null
+    }
+]

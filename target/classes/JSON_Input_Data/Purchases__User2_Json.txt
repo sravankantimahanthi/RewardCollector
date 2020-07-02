@@ -1,0 +1,29 @@
+[{
+        "purchaseId": null,
+        "purchaseItem": "Book",
+        "purchaseDate": "03-Feb-2019",
+        "purchaseAmount": "850",
+        "rewardPoints": null
+    },
+	{
+        "purchaseId": null,
+        "purchaseItem": "Pen",
+        "purchaseDate": "10-MAR-2020",
+        "purchaseAmount": "550",
+        "rewardPoints": null
+    },
+{
+        "purchaseId": null,
+        "purchaseItem": "Phone",
+        "purchaseDate": "15-APR-2020",
+        "purchaseAmount": "1250",
+        "rewardPoints": null
+    },
+	{
+        "purchaseId": null,
+        "purchaseItem": "Xbox",
+        "purchaseDate": "20-JUN-2020",
+        "purchaseAmount": "900",
+        "rewardPoints": null
+    }
+]

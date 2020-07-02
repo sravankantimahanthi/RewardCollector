@@ -1,0 +1,29 @@
+[{
+        "purchaseId": null,
+        "purchaseItem": "Gold",
+        "purchaseDate": "03-JAN-2010",
+        "purchaseAmount": "1000",
+        "rewardPoints": null
+    },
+	{
+        "purchaseId": null,
+        "purchaseItem": "Silver",
+        "purchaseDate": "10-FEB-2020",
+        "purchaseAmount": "2000",
+        "rewardPoints": null
+    },
+{
+        "purchaseId": null,
+        "purchaseItem": "Platinum",
+        "purchaseDate": "15-MAR-2020",
+        "purchaseAmount": "3200",
+        "rewardPoints": null
+    },
+	{
+        "purchaseId": null,
+        "purchaseItem": "Vibranium",
+        "purchaseDate": "20-MAR-2020",
+        "purchaseAmount": "4600",
+        "rewardPoints": null
+    }
+]

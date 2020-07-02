@@ -1,0 +1,5 @@
+{
+    "userId": null,
+    "userName": "Steve Rogers",
+    "gender": "M"
+}
